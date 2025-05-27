@@ -1,2 +1,3 @@
 # Communicate using markdown
-## Chapter 1
+## Images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
